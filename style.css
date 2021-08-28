@@ -31,7 +31,7 @@
     display: block;
     margin: auto;
     height: 5px;
-    width: 15%;
-    background-image: linear-gradient(69deg, orange, orangered);    
+    width: 10%;
+    background-image: linear-gradient(69deg, rgba(255, 166, 0, 0.938), rgb(255, 115, 0));    
     overflow: hidden;
 }
