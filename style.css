@@ -1,0 +1,29 @@
+                                /* CAROUSEL SECTION */
+.fstbg{
+    background-image: url('images/bg-1.png');
+    background-repeat: no-repeat;
+}
+.buy-now{
+    background-image: linear-gradient(79deg, black, rgba(0, 0, 0, 0.699));
+    color: white;
+    padding: 8px 30px;
+    border-radius: 10px;
+}
+                            /* CATEGORY */
+.cat a{
+    text-decoration: none;
+    color: rgba(255, 166, 0, 0.938);
+}
+.card{
+    border: none;
+}
+.container{
+    overflow: hidden;
+}
+.trans:hover{
+    transform: scale(1.07);
+    transition: transform 0.5s;
+}
+.card-text{
+    font-weight: 200;
+}
