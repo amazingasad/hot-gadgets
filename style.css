@@ -1,3 +1,7 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
                                 /* CAROUSEL SECTION */
 .fstbg{
     background-image: url('images/bg-1.png');
@@ -32,6 +36,19 @@
     margin: auto;
     height: 5px;
     width: 10%;
-    background-image: linear-gradient(69deg, rgba(255, 166, 0, 0.938), rgb(255, 115, 0));    
+    background-image: linear-gradient(69deg, rgba(255, 166, 0, 0.938), #ff7300);    
     overflow: hidden;
+}
+                                /* FOTTER */
+footer{
+    background-image: linear-gradient(-110deg, black, rgba(0, 0, 0, 0.699));
+    color: white;
+}
+footer a{
+    text-decoration: none;
+    color: tomato;
+}
+footer a:hover{
+    font-size: 17px;
+    color: #ff7300;
 }
